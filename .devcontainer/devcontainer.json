@@ -1,5 +1,18 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-  }
+  "features": {},
+  "extensions": [
+    "ms-mysql.mysql",
+    "mtxr.sqltools",
+    "formulahendry.docker-explorer",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "humao.rest-client",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "yzhang.markdown-all-in-one",
+    "Gruntfuggly.todo-tree",
+    "msjsdiag.debugger-for-chrome",
+    "formulahendry.code-runner"
+  ]
 }
